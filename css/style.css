@@ -1,0 +1,9 @@
+#the-booleaner{
+    background-color: dodgerblue;
+    background-image: url(../img/pattern.png);background-size:33%;
+}
+
+header > img{
+    width: 200px;
+    height: 120px;
+}
