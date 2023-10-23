@@ -17,3 +17,12 @@ h1{
 #autore{
     color: grey;
 }
+
+.descrizione-foto{
+    font-size: 14px;
+}
+
+.sottolineato{
+    background-color: yellow;
+}
+
