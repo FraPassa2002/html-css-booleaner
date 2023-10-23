@@ -39,3 +39,28 @@ h1{
     width: 50%;
 }
 
+.consigliati-testo{
+    color: grey;
+}
+
+.consigliati2{
+    height: 303px;
+    width: 394px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    color: white;
+    font-size: 40px;
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.graph{
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
