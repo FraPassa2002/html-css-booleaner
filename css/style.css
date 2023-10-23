@@ -26,3 +26,16 @@ h1{
     background-color: yellow;
 }
 
+.intestazione-table{
+    color: white;
+    background-color: rgb(32, 169, 229) ;
+}
+
+.blue-table{
+    background-color:#B1E5F2;
+}
+
+.size_col{
+    width: 50%;
+}
+
